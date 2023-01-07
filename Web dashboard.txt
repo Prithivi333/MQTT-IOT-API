@@ -1,0 +1,4 @@
+Platforms that can be used for developing a web dashboard:
+    InfluxDB-> for Database purposes(free)
+    Netlify -> for deploying on the cloud(free tier has sufficient features to support production)
+    Node and Express as the JavaScript framework
